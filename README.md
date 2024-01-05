@@ -16,7 +16,6 @@
 5. Add the app level paths in urls.py in project level.
 6. Now use command 'python3 manage.py runserver' to view the created REST API.
 6. View the output using this url - 'http://127.0.0.1:8000/api/menu-items'  
-![Alt text](<Screen Shot 2024-01-05 at 1.09.54 PM.png>)
-
-7. View the details of one item using this url - http://127.0.0.1:8000/api/menu-items/1
 ![Alt text](<Screen Shot 2024-01-05 at 1.10.10 PM.png>)
+7. View the details of one item using this url - http://127.0.0.1:8000/api/menu-items/1
+![Alt text](<Screen Shot 2024-01-05 at 1.09.54 PM.png>)
